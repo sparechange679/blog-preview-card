@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Blog Preview Card](https://github.com/sparechange679/blog-preview-card.git)
-- Live Site URL: [Blog Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Blog Preview Card](https://sparechange679.github.io/blog-preview-card/)
 
 ## My process
 
